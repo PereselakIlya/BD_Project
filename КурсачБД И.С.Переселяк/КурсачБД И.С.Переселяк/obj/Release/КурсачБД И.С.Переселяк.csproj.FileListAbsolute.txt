@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\bin\Release\КурсачБД И.С.Переселяк.exe.config
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\bin\Release\КурсачБД И.С.Переселяк.exe.manifest
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\bin\Release\КурсачБД И.С.Переселяк.application
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\bin\Release\КурсачБД И.С.Переселяк.exe
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\bin\Release\КурсачБД И.С.Переселяк.pdb
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД_И.С.Переселяк.Form1.resources
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД_И.С.Переселяк.Properties.Resources.resources
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД И.С.Переселяк.csproj.GenerateResource.cache
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД И.С.Переселяк.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД И.С.Переселяк.exe.manifest
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД И.С.Переселяк.application
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД И.С.Переселяк.exe
+C:\Users\user\source\repos\КурсачБД И.С.Переселяк\КурсачБД И.С.Переселяк\obj\Release\КурсачБД И.С.Переселяк.pdb
